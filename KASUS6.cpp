@@ -44,8 +44,7 @@ double avg_n(int n)
 };
 
 int main()
-{
-   // TULISEN KODEMU NING KENE
+{
    cout << luas_persegi(9) << endl;
    cout << is_ganjil(9) << endl;
    cout << is_genap(9) << endl;
