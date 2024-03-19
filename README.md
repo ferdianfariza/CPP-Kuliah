@@ -3,6 +3,7 @@
 **'Digital Craftsman (Developer/Graphic Desgin)'**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=C%2B%2B+Bachelor's+Archive;Dasar+Pemrograman+SMT+1;Algoritma+dan+Struktur+Data+SMT+2)](https://git.io/typing-svg)
+
 [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCqN1DDJRD9hYj1KtcphgxeQ?sub_confirmation=1)
 
 Enjoy my content? Consider subscribing to my [YouTube channel](https://www.youtube.com/channel/UCqN1DDJRD9hYj1KtcphgxeQ?sub_confirmation=1) for more updates!
