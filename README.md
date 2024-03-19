@@ -16,4 +16,4 @@ I'm Ferdian Nur Fariza, a passionate individual pursuing a Bachelor's degree in 
 - 💼 Passionate about UI/UX and graphic design.
 - 🌱 Always eager to learn and explore new technologies.
 
-##
+
