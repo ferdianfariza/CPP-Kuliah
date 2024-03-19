@@ -12,7 +12,7 @@
   
 </p>
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/yourchannel)
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/yourchannel](https://www.youtube.com/channel/UCqN1DDJRD9hYj1KtcphgxeQ?sub_confirmation=1))
 
 Enjoy my content? Consider subscribing to my [YouTube channel](https://www.youtube.com/yourchannel) for more updates!
 
