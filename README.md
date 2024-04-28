@@ -6,7 +6,7 @@
 
 
 [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCqN1DDJRD9hYj1KtcphgxeQ?sub_confirmation=1)
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/ferdianfarizaa/)
+[![Instagram](https://img.shields.io/badge/Follow-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/ferdianfariza/)
 
 I'm Ferdian Nur Fariza, a passionate individual pursuing a Bachelor's degree in Informatics Engineering. I find immense joy and fulfillment in the realms of UI/UX and graphic design, where I constantly strive to blend creativity with functionality.
 
